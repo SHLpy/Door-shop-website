@@ -17,4 +17,4 @@ Framework: Django
 Database: SQLite3
 Version Control: Git
 Frontend: HTML, CSS
-Backend: Python
+Backend: Python ETC.
